@@ -1,0 +1,14 @@
+build a project builder:
+
+
+whenever script is refered it also means agent and vice versa
+
+Planing:-
+plans the required functions/scripts/datas/knowledge ...
+whats the approach multiple approaches choses the best and optimal one
+
+Implimentation:-
+script 1:- installs required packges
+
+
+
